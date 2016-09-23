@@ -1,0 +1,4 @@
+1 Rustom 100 93
+2 Kabali 180 180
+3 Mohenjodaro 90 70
+4 ABCD 60 20
